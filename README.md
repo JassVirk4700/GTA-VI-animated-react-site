@@ -4,10 +4,11 @@ An eye-catching, animated web experience inspired by Grand Theft Auto VI, create
 
 ## 🚀 Live Demo
 
+<a href="https://gta-vi-animated-react-website.vercel.app/">
+        <img src="./public/main.png" alt="">
+    </a>
 
-![GTA VI Landing Page](./public/main.png)
-
-👉 [Visit Website]()  
+👉 [Visit Website](https://gta-vi-animated-react-website.vercel.app/)  
 📦 _Project still in development_
 
 
@@ -32,6 +33,7 @@ The GTA VI website features:
 - **Routing & Pages:** React Router
 - **Styling:** Flexbox, Custom CSS Animations
 - **Animation:** GSAP, TailwindCSS
+- **Deployment:** Vercel
 
 ## 🧑‍🏫 Learning Journey
 
